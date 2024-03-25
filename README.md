@@ -6,11 +6,11 @@ The official code of "Make-It-Vivid: Dressing Your Animatable Biped Cartoon Char
 
 
 [Junshu Tang](https://junshutang.github.io/)<sup>1</sup>,
-[Yanhong Zeng](https://zengyh1900.github.io/) <sup>2</sup>,
-[Ke Fan](https://openreview.net/profile?id=~Ke_Fan2) <sup>1</sup>,
-[Xuheng Wang](https://github.com/xUhEngwAng) <sup>2</sup>,
+[Yanhong Zeng](https://zengyh1900.github.io/)<sup>2</sup>,
+[Ke Fan](https://openreview.net/profile?id=~Ke_Fan2)<sup>1</sup>,
+[Xuheng Wang](https://github.com/xUhEngwAng)<sup>3</sup>,
 [Bo Dai](https://daibo.info/)<sup>2</sup>,
-[Kai Chen](https://chenkai.site/) <sup>2</sup>,
+[Kai Chen](https://chenkai.site/)<sup>2</sup>,
 [Lizhuang Ma](http://dmcv.sjtu.edu.cn/)<sup>1</sup>
 
 <sup>1</sup>Shanghai Jiao Tong University, <sup>2</sup>Shanghai AI Lab, <sup>3</sup>Tsinghua University
