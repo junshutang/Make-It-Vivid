@@ -1,6 +1,6 @@
 # Make-It-Vivid
 The official code of Make-It-Vivid: Dressing Your Animatable Biped Cartoon Characters from Text
-<img src='imgs/overview.png'/>
+<img src='pipeline.png'/>
 
 ### [Project Page](https://make-it-vivid.github.io/) | [Paper (ArXiv)](https://make-it-vivid.github.io/)
 
