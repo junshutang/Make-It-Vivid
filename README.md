@@ -2,7 +2,7 @@
 The official code of "Make-It-Vivid: Dressing Your Animatable Biped Cartoon Characters from Text"
 <img src='pipeline.png'/>
 
-### [Project Page](https://make-it-vivid.github.io/) | [Paper (ArXiv)](https://make-it-vivid.github.io/)
+### [Project Page](https://make-it-vivid.github.io/) | [Paper (ArXiv)](https://arxiv.org/abs/2403.16897)
 
 
 [Junshu Tang](https://junshutang.github.io/)<sup>1</sup>,
