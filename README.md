@@ -18,4 +18,34 @@ The official code of "Make-It-Vivid: Dressing Your Animatable Biped Cartoon Char
 ## Abstract
 > Creating and animating 3D biped cartoon characters is crucial and valuable in various applications. Compared with geometry, the diverse texture design plays an important role in making 3D biped cartoon characters vivid and charming. Therefore, we focus on automatic texture design for cartoon characters based on input instructions. This is challenging for domain-specific requirements and a lack of high-quality data. To address this challenge, we propose Make-It-Vivid, the first attempt to enable high-quality texture generation from text in UV space. We prepare a detailed text-texture paired data for 3D characters by using vision-question-answering agents. Then we customize a pretrained text-to-image model to generate texture map with template structure while preserving the natural 2D image knowledge. Furthermore, to enhance fine-grained details, we propose a novel adversarial learning scheme to shorten the domain gap between original dataset and realistic texture domain. Extensive experiments show that our approach outperforms current texture generation methods, resulting in efficient character texturing and faithful generation with prompts. Besides, we showcase various applications such as out of domain generation and texture stylization. We also provide an efficient generation system for automatic text-guided textured character generation and animation.
 
-## Code is Comming Soon!
+## Todo
+- [x] **Release training and inference code**
+- [ ] Release data preprocess and pretrain models
+- [ ] Release animation and style mixing code
+- [ ] Release more applications
+
+## Data preprocess
+Comming soon!
+
+## Installation
+Install with pip:
+```
+    pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+```
+Other dependencies:
+```
+    pip install -r requirements.txt 
+```
+
+## Training 
+```
+    bash run.sh
+```
+Run the command and modify the path of the dataset `/path/to/data/`. 
+
+## Inference
+Download the pre-trained weights and put it in `lora/`. Then run
+```
+    python infer.py
+```
+

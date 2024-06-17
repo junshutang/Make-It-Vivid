@@ -1,4 +1,3 @@
-torch==1.10.0+cu111
 kaolin
 transformers
 diffusers
